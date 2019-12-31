@@ -1,0 +1,7 @@
+#set("content") {
+    <div>
+        <p>call us today</p>
+    </div>
+}
+
+#embed("base")

@@ -1,0 +1,10 @@
+#set("content") {
+
+    <img src="images/oneleif.png" width=80% height=auto>
+
+    <div>
+        <p>Services</p>
+    </div>
+}
+
+#embed("base")

@@ -1,0 +1,11 @@
+#set("content") {
+
+    <img src="images/oneleif.png" width=80% height=auto>
+
+    <div>
+        <p>Divine Wood Floors is a family owned business that focuses on absolute satisfaction of their customers.</p>
+        <p>Divine Wood Floors is a family owned business that focuses on absolute satisfaction of their customers.</p>
+    </div>
+}
+
+#embed("base")
